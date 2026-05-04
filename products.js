@@ -32,7 +32,7 @@ const PRODUCTS = [
     },
     {
         name: "Cordless Portable Fan",
-        image: "assets/CordlessPortablefan.jpeg",
+        image: "assets/CordlessPortablefan.png",
         link: "https://amzn.to/4d23TPq",  // <-- Replace with your affiliate link
         category: "Electronics"
     }
