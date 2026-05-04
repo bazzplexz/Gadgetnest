@@ -89,6 +89,12 @@ const PRODUCTS = [
         image: "assets/ninjaicecream.png",
         link: "https://amzn.to/4w3NFhG",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+    {
+        name: "Quick Breakfast Maker",
+        image: "assets/Breakfastmaker.png",
+        link: "https://amzn.to/4cOMD1k",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
