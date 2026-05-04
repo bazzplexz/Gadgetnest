@@ -53,6 +53,42 @@ const PRODUCTS = [
         image: "assets/NIIMBOTB21LabelMaker.png",
         link: "https://amzn.to/4vY7Ih8",  // <-- Replace with your affiliate link
         category: "electronics"
+    },
+    {
+        name: "18 Jar Rotating ",
+        image: "assets/18jarroateing.png",
+        link: "https://amzn.to/4dfXeS7",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Spice Rack RoundShape",
+        image: "assets/Spicerackround.png",
+        link: "https://amzn.to/4dfZtF1",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Lime Squeezer Green",
+        image: "assets/Limesqueezer.png",
+        link: "https://amzn.to/4cUqeyA",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Vegetables Drain Basket",
+        image: "assets/Drainbasket.png",
+        link: "https://amzn.to/3QCtfvP",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Storage Containers",
+        image: "assets/storagecontainers.png",
+        link: "https://amzn.to/3QG2hn0",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Ninja Ice Cream Maker",
+        image: "assets/ninjaicecream.png",
+        link: "https://amzn.to/4w3NFhG",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
