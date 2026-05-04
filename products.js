@@ -95,6 +95,12 @@ const PRODUCTS = [
         image: "assets/Breakfastmaker.png",
         link: "https://amzn.to/4cOMD1k",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+    {
+        name: "LED Book Reading Light",
+        image: "assets/Ledreadinglight.png",
+        link: "https://amzn.to/48Aq7qA",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
