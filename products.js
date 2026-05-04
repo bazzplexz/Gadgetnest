@@ -47,6 +47,12 @@ const PRODUCTS = [
         image: "assets/RetractableClothsline.png",
         link: "https://amzn.to/4tyuuut",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+    {
+        name: "NIIMBOT Label Maker",
+        image: "assets/NIIMBOTB21LabelMaker.png",
+        link: "https://amzn.to/4vY7Ih8",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
