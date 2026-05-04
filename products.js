@@ -29,6 +29,12 @@ const PRODUCTS = [
         image: "assets/coffee-cup.jpeg",
         link: "https://amzn.to/4udFRI8",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+    {
+        name: "Cordless Portable Fan",
+        image: "assets/CordlessPortablefan.jpeg",
+        link: "https://amzn.to/4d23TPq",  // <-- Replace with your affiliate link
+        category: "Electronics"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
