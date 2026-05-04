@@ -40,7 +40,7 @@ const PRODUCTS = [
         name: "NutriPro Smoothie Blender",
         image: "assets/nutrimix.png",
         link: "https://amzn.to/4ufgVAf",  // <-- Replace with your affiliate link
-        category: "Electronics"
+        category: "electronics"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
