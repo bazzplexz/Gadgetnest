@@ -86,7 +86,7 @@ const PRODUCTS = [
     },
 {
         name: "Ninja Ice Cream Maker",
-        image: "assets/ninjaicecream.png",
+        image: "asset/ninjaicecream.png",
         link: "https://amzn.to/4w3NFhG",  // <-- Replace with your affiliate link
         category: "lifestyle"
     }
