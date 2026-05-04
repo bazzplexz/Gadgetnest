@@ -35,6 +35,12 @@ const PRODUCTS = [
         image: "assets/CordlessPortablefan.png",
         link: "https://amzn.to/4d23TPq",  // <-- Replace with your affiliate link
         category: "Electronics"
+    },
+    {
+        name: "NutriPro Smoothie Blender",
+        image: "assets/nutrimix.png",
+        link: "https://amzn.to/4ufgVAf",  // <-- Replace with your affiliate link
+        category: "Electronics"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
