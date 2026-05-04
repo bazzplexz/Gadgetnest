@@ -41,6 +41,12 @@ const PRODUCTS = [
         image: "assets/nutrimix.png",
         link: "https://amzn.to/4ufgVAf",  // <-- Replace with your affiliate link
         category: "electronics"
+    },
+    {
+        name: "Retractable ClothsLine",
+        image: "assets/RetractableClothsline.png",
+        link: "https://amzn.to/4tyuuut",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
