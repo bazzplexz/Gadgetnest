@@ -101,6 +101,120 @@ const PRODUCTS = [
         image: "assets/Ledreadinglight.png",
         link: "https://amzn.to/48Aq7qA",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+    {
+        name: "Soap Box Punch Free",
+        image: "assets/soapbox.png",
+        link: "https://amzn.to/4cYQfg1",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Ice Nuggets Maker",
+        image: "assets/Icenugets.png",
+        link: "https://amzn.to/423rsT8",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+   },
+{
+        name: "Mini cooler",
+        image: "assets/minicooler.png",
+        link: "https://amzn.to/4cZjgYZ",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Egg Slicer",
+        image: "assets/eggslicer.png",
+        link: "https://amzn.to/4eQeob1",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Embossing Machine Lebel",
+        image: "assets/Embossinglabel.png",
+        link: "https://amzn.to/4cZsqos",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Portable Ironing Machine",
+        image: "assets/Portableironmachine.png",
+        link: "https://amzn.to/49jLH2F",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Removable Handles",
+        image: "assets/Removablehandle.png",
+        link: "https://amzn.to/4ekiF6v",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Self Stirring Mug",
+        image: "assets/selfstiringcup.png",
+        link: "https://amzn.to/48tsWtp",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Electric Foldable Hot Water Cup",
+        image: "assets/HotWatercup.png",
+        link: "https://amzn.to/4tacRAm",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Dry Fruit Slicer",
+        image: "assets/DryFruitSlicer.png",
+        link: "https://amzn.to/3OOvQSW",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Portable Sealing Machine blue",
+        image: "assets/minisealingblue.png",
+        link: "https://amzn.to/3OCC7RH",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Portable Sealing Machine Pink",
+        image: "assets/minisealingpink.png",
+        link: "https://amzn.to/49nP9t8",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    }
+,{
+        name: "Refillable Perfume Bottles",
+        image: "assets/perfumerefiler.png",
+        link: "https://amzn.to/4wjmq2K",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Massager Gun",
+        image: "assets/Massager.png",
+        link: "https://amzn.to/4t4nIvv",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "3 Air Tight Glass Containers",
+        image: "assets/3glassjar.png",
+        link: "https://amzn.to/4n8j12D",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Digital Alarm Clock",
+        image: "assets/DigitalalarmClock.png",
+        link: "https://amzn.to/4w6ZFPc",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Honey Pot with Dipper",
+        image: "assets/honeypot.png",
+        link: "https://amzn.to/4dlgNt9",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Retro Wooden Bluetooth Speaker",
+        image: "assets/woodenspeaker.png",
+        link: "https://amzn.to/4cWjWOM",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Smart Temperature Mug Travel",
+        image: "assets/smartmug.png",
+        link: "https://amzn.to/4d3O2Qv",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
