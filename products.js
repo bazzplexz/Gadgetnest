@@ -52,7 +52,7 @@ const PRODUCTS = [
         name: "NIIMBOT Label Maker",
         image: "assets/NIIMBOTB21LabelMaker.png",
         link: "https://amzn.to/4vY7Ih8",  // <-- Replace with your affiliate link
-        category: "Electronics"
+        category: "electronics"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
