@@ -215,6 +215,30 @@ const PRODUCTS = [
         image: "assets/smartmug.png",
         link: "https://amzn.to/4d3O2Qv",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+    {
+        name: "Smart Planter",
+        image: "assets/smartplanter.png",
+        link: "https://amzn.to/4erI6Dl",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+    {
+        name: "Charging Organizer",
+        image: "assets/chargeorganizer.png",
+        link: "https://amzn.to/4tkxqtZ",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+    {
+        name: "Travel Toiletry Kit",
+        image: "assets/traveltoiletrykit.png",
+        link: "https://amzn.to/4tXrckM",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+    {
+        name: "LED Mirror Case",
+        image: "assets/ledmirrorcase.png",
+        link: "https://amzn.to/48Klx97",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
