@@ -239,6 +239,17 @@ const PRODUCTS = [
         image: "assets/ledmirrorcase.png",
         link: "https://amzn.to/48Klx97",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },{
+        name: "Slim Electric Tooth brush",
+        image: "assets/electricToothbrush.png",
+        link: "https://amzn.to/4uo74rU",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Silicone Straws",
+        image: "assets/Siliconestraw.png",
+        link: "https://amzn.to/4wd9XgS",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
