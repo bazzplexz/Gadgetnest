@@ -250,6 +250,24 @@ const PRODUCTS = [
         image: "assets/Siliconestraw.png",
         link: "https://amzn.to/4wd9XgS",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+    {
+        name: "Egg Cooker",
+        image: "assets/Eggcooker.png",
+        link: "https://amzn.to/4nkrfoo",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Insulated Tumbler",
+        image: "assets/insulatedtumbler.png",
+        link: "https://amzn.to/4dcABOj",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Travel kit",
+        image: "assets/travelkit.png",
+        link: "https://www.flipkart.com/kkart-7-in-1-travel-toothbrush-kit-case-cover-plastic-holder/p/itmc847e106348a5",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
