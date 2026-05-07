@@ -268,6 +268,18 @@ const PRODUCTS = [
         image: "assets/travelkit.png",
         link: "https://www.flipkart.com/kkart-7-in-1-travel-toothbrush-kit-case-cover-plastic-holder/p/itmc847e106348a5",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+    {
+        name: "Dish Cleaning Brush",
+        image: "assets/Dishbrush.png",
+        link: "https://amzn.to/4tjNZGo",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Collapsible Cup",
+        image: "assets/CollapsibleCup.png",
+        link: "https://amzn.to/4f90XmJ",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
