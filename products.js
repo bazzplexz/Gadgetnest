@@ -280,6 +280,18 @@ const PRODUCTS = [
         image: "assets/CollapsibleCup.png",
         link: "https://amzn.to/4f90XmJ",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+{
+        name: "Tissue Holder",
+        image: "assets/tissueHolder.png",
+        link: "https://amzn.to/3P0YEaV",  // <-- Replace with your affiliate link
+        category: "lifestyle"
+    },
+{
+        name: "Neck Fan",
+        image: "assets/Neckfan.png",
+        link: "https://amzn.to/4du2pPk",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
